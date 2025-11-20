@@ -3,4 +3,4 @@
 - [Управление задачами](/tasks/README.md)
 - [Отчеты](/reports/README.md)
 - [Решение проблем](/troubleshooting/README.md)
-- [Изображения](/images/README.md)
+

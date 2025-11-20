@@ -1,0 +1,25 @@
+{
+  "name": "construction-docs",
+  "version": "1.0.0",
+  "description": "Добро пожаловать в документацию мобильного приложения для контроля выполнения задач в строительной компании.",
+  "main": "index.js",
+  "scripts": {
+     "serve": "docsify serve ./",
+    "init": "docsify init ./",
+    "start": "docsify serve ./ -p 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alina-Maximova/construction-docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alina-Maximova/construction-docs/issues"
+  },
+  "homepage": "https://github.com/Alina-Maximova/construction-docs#readme",
+  "devDependencies": {
+    "docsify": "^4.13.1"
+  }
+}
