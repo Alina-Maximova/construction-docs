@@ -49,31 +49,31 @@
 ### Создание отчета
 
 **Кнопка "Создать отчет" в списке задач:**
-![Кнопка создания отчета в списке](ю./images/create_btn_report1.jpg){ width="300" }
+![Кнопка создания отчета в списке](../images/create_btn_report1.jpg)
 
 **Кнопка создания отчета в меню:**
-![Кнопка создания отчета в меню](./images/create_btn_report2.jpg){ width="300" }
+![Кнопка создания отчета в меню](../images/create_btn_report2.jpg){ width="300" }
 
 ### Формы и фильтры
 
 **Форма создания отчета:**
-![Форма создания отчета](./images/create_report.jpg){ width="300" }
+![Форма создания отчета](../images/create_report.jpg){ width="300" }
 
 **Фильтрация отчетов:**
-![Фильтры отчетов](./images/filter_report.jpg){ width="300" }
+![Фильтры отчетов](../images/filter_report.jpg){ width="300" }
 
 ### Все изображения вместе
 
 **Кнопка создания отчета в списке:**
-![Кнопка создания отчета в списке](./images/create_btn_report1.jpg){ width="300" }
+![Кнопка создания отчета в списке](../images/create_btn_report1.jpg){ width="300" }
 
 **Кнопка создания отчета в меню:**
-![Кнопка создания отчета в меню](./images/create_btn_report2.jpg){ width="300" }
+![Кнопка создания отчета в меню](../images/create_btn_report2.jpg){ width="300" }
 
 **Форма создания отчета:**
-![Форма создания отчета](./images/create_report.jpg){ width="300" }
+![Форма создания отчета](../images/create_report.jpg){ width="300" }
 
 **Фильтрация отчетов:**
-![Фильтры отчетов](./images/filter_report.jpg){ width="300" }
+![Фильтры отчетов](../images/filter_report.jpg){ width="300" }
 
 [Далее: Решение проблем →](/troubleshooting/README.md)
