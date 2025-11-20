@@ -45,9 +45,9 @@
 > 📈 **Важно**: Отчеты обновляются в реальном времени по мере изменения статусов задач.
 
 **Кнопка "Создать отчет" в списке задач и в детальном просмотре:**  
-<img src="/images/create_bnt_report1.jpg" width="200" alt="Кнопка создания отчета"> <img src="/images/create_bnt_report2.jpg" width="200" alt="Кнопка создания отчета в меню">
+<img src="/construction-docs/images/create_bnt_report1.jpg" width="200" alt="Кнопка создания отчета"> <img src="/construction-docs/images/create_bnt_report2.jpg" width="200" alt="Кнопка создания отчета в меню">
 
 **Форма создания отчета и фильтрация:**  
-<img src="/images/create_report.jpg" width="200" alt="Форма создания отчета"> <img src="/images/filter_report.jpg" width="200" alt="Фильтры отчетов">
+<img src="/construction-docs/images/create_report.jpg" width="200" alt="Форма создания отчета"> <img src="/construction-docs/images/filter_report.jpg" width="200" alt="Фильтры отчетов">
 
 [Далее: Решение проблем →](/troubleshooting/README.md)
