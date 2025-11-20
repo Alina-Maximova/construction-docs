@@ -6,6 +6,27 @@
   <meta charset="UTF-8">
   <title>Строительный Контроль - Документация</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/vue.css">
+  <style>
+    /* Кастомные стили для навигации */
+    .sidebar {
+      background-color: #f8f9fa;
+    }
+    .sidebar ul li a {
+      color: #2c3e50;
+      font-weight: 500;
+      border-left: 3px solid transparent;
+      padding-left: 15px;
+    }
+    .sidebar ul li a:hover {
+      background-color: #e9ecef;
+      border-left-color: #007bff;
+    }
+    .sidebar ul li.active > a {
+      background-color: #007bff;
+      color: white;
+      border-left-color: #0056b3;
+    }
+  </style>
 </head>
 <body>
   <div id="app">Загрузка документации...</div>
@@ -14,14 +35,19 @@
       name: 'Строительный Контроль - Документация',
       repo: 'Alina-Maximova/construction-docs',
       loadSidebar: true,
+      loadNavbar: true,
       subMaxLevel: 3,
       auto2top: true,
+      relativePath: true,
+      mergeNavbar: true,
       search: {
         placeholder: 'Поиск в документации...',
-        noData: 'Ничего не найдено'
+        noData: 'Ничего не найдено',
+        depth: 3
       },
       alias: {
-      '/.*/_sidebar.md': '/_sidebar.md'
+        '/.*/_sidebar.md': '/_sidebar.md',
+        '/.*/_navbar.md': '/_navbar.md'
       }
     }
   </script>
