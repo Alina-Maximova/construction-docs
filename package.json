@@ -4,7 +4,7 @@
   "description": "Добро пожаловать в документацию мобильного приложения для контроля выполнения задач в строительной компании.",
   "main": "index.js",
   "scripts": {
-     "serve": "docsify serve ./",
+    "serve": "docsify serve ./",
     "init": "docsify init ./",
     "start": "docsify serve ./ -p 3000"
   },

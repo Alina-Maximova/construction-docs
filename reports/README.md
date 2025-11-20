@@ -62,4 +62,4 @@
 **Фильтрация отчетов:**
 ![Фильтры отчетов](../images/filter_report.jpg)
 
-[Далее: Решение проблем →](/troubleshooting/README.md)
+[Далее: Решение проблем →](/troubleshooting/)
