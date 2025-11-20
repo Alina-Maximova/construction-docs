@@ -15,4 +15,4 @@
 - **Техническая поддержка**: support@construction-control.ru
 - **Телефон**: +7 (XXX) XXX-XX-XX
 
-![Логотип приложения](./images/logo.png)
+[![Логотип приложения](./images/logo.png)](https://2gis.ru/sudogda/firm/70000001050104454)
